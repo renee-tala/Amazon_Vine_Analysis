@@ -24,7 +24,7 @@ After creating these tables using PySpark, we then connect our Amazon RDS and us
 ## Results of Vine Analysis 
 The second part of this analysis(Vine_Review_Analysis.ipynb), we will gather further information on the vine table. 
 
-- The kitchen reviews dataset has 93,468 reviews in total. 
+The kitchen reviews dataset has 93,468 reviews in total. 
 - The total number of paid reviews is 1,160. 
 - The total number of unpaid reviews is 92,308.
 - The total number of 5 star reviews is 43,736.
@@ -38,5 +38,9 @@ The second part of this analysis(Vine_Review_Analysis.ipynb), we will gather fur
 
   - Out of all 5 star reviews, 1.12% of them were paid.
   - Out of all 5 star reviews, 98.88% of them were unpaid.
+Here are the images of that data: 
+![total_counts](img/countinfo.png)
+![percent_counts](img/percentageinfo.png)
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
