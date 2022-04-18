@@ -38,14 +38,16 @@ The second part of this analysis(Vine_Review_Analysis.ipynb), we will gather fur
   - Out of all 5 star reviews, 1.12% of them were paid(Vine).
   - Out of all 5 star reviews, 98.88% of them were unpaid.
 
-
 Here are the images of that data: 
+
 ![total_counts](img/countinfo.png)
 ![percent_counts](img/percentageinfo.png)
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 There isn't positivity bias for reviews within the Vine program when it comes to kitchen reviews. This can be seen in the amount of five star reviews. 
+
 Nearly half of all paid reviews (42.16%) were five star reviews. There were only 1160 paid reviews out of 93,468. While it may seem like there is some bias there, this amount is similar to all unpaid reviews that were five star reviews (46.85%). Finally comparing the amount of 5 star reviews out of all reviews is also 46.79%. The paid reviews could be said to be the sample and the unpaid reviews the population.
+
 There isn't a huge difference in this number, but to validate whether or not it's a statistical difference we would need further analysis. This was just one dataset out of many. Does product category have an effect on Vine reviews? Are Vine members likely to think critically about how to review a product based on the category? 
+
 We would have to conduct this analysis with every dataset and then compare the differences in paid v unpaid 5 star reviews. 
