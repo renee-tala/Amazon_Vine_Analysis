@@ -1,6 +1,6 @@
 # Amazon Vine Analysis 
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis
 In this project, we will be examining the paid reviews done by members of the Amazon Vine Program. "The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products." The data used is from Amazon's Review Datasets, and the selected dataset is on kitchen reviews.
 
 Resources:
@@ -43,7 +43,7 @@ Here are the images of that data:
 ![total_counts](img/countinfo.png)
 ![percent_counts](img/percentageinfo.png)
 
-## Summary: 
+## Summary 
 There isn't positivity bias for reviews within the Vine program when it comes to kitchen reviews. This can be seen in the amount of five star reviews. 
 
 Nearly half of all paid reviews (42.16%) were five star reviews. There were only 1160 paid reviews out of 93,468. While it may seem like there is some bias there, this amount is similar to all unpaid reviews that were five star reviews (46.85%). Finally comparing the amount of 5 star reviews out of all reviews is also 46.79%. The paid reviews could be said to be the sample and the unpaid reviews the population.
