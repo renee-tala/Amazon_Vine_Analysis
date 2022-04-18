@@ -50,4 +50,4 @@ Nearly half of all paid reviews (42.16%) were five star reviews. There were only
 
 There isn't a huge difference in this number, but to validate whether or not it's a statistical difference we would need further analysis. This was just one dataset out of many. Does product category have an effect on Vine reviews? Are Vine members likely to think critically about how to review a product based on the category? 
 
-We would have to conduct this analysis with every dataset and then compare the differences in paid v unpaid 5 star reviews. 
+We would have to conduct this analysis with every dataset and then compare the differences in paid v unpaid 5 star reviews. From there we could determine if there is positivity bias in the Vine program.
